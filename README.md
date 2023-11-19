@@ -5,13 +5,13 @@
 - 🌱 I’m currently working on PriorityPilot/WebDEV.
 - 👀 Passionate about Web Development, building C++ applications, and exploring new technologies in the software engineering field.
 - 🥅 2023 Goals: Contribute more to open source projects and build my portfolio in web development and C++ applications.
-- ⚡ Fun fact: learning new programing langauges .
+- ⚡ Fun fact: learning new programing langauges.
 
 ## 🛠 Technologies and Tools:
-- Frontend: Next.js, Tailwind, React, vite, three.js
+- Frontend: Next.js, Tailwind, React, three.js
 - Backend: node.js, supabase, AWS
-- C++ Development: openGL, 
-- Others: [Any other tools or technologies you use, like Git, databases, etc.]
+- C++ Development: openGL, SDL2
+- Others: GraphQL, GIT, vite, 
 
 ## 📫 How to reach me:
 - Email: wasif.zaman1@gmail.com
