@@ -1,30 +1,32 @@
 # Hello, I'm Wasif Zaman! 👋
 
+I'm a software engineering enthusiast, on a journey to explore the vast world of coding and technology. 🌌
+
 ## 👨‍💻 About Me:
-- 🎓 I'm a second-year software engineering student at Macquarie University.
-- 🌱 I’m currently working on PriorityPilot/WebDEV.
-- 👀 Passionate about Web Development, building C++ applications, and exploring new technologies in the software engineering field.
-- 🥅 2023 Goals: Contribute more to open source projects and build my portfolio in web development and C++ applications.
-- ⚡ Fun fact: learning new programing langauges.
+- 🎓 Currently mastering the art of coding as a second-year software engineering student at Macquarie University.
+- 🌱 Crafting and refining my latest creation: PriorityPilot/WebDEV.
+- 👀 Passion runs deep in my veins for Web Development, architecting C++ applications, and embarking on quests to discover new tech realms.
+- 🥅 2023 Goals: To be an open-source champion 🛡️ and to weave my portfolio into a tapestry of web development and C++ marvels.
+- ⚡ Fun fact: My brain switches to learning new programming languages mode when I'm not coding!
 
-## 🛠 Technologies and Tools:
-- Frontend: Next.js, Tailwind, React, three.js
-- Backend: node.js, supabase, AWS
-- C++ Development: openGL, SDL2, Cmake
-- Others: GraphQL, GIT, vite, 
+## 🛠 My Arsenal:
+- **Frontend Warfare**: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=three.js)
+- **Backend Operations**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+- **C++ Constructions**: ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=flat&logo=opengl) ![SDL2](https://img.shields.io/badge/-SDL2-8FBCBB?style=flat) ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake)
+- **Auxiliaries**: ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite)
 
-## 📫 How to reach me:
-- Email: wasif.zaman1@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/wasif-zaman-4228b5245/)
-- GitHub: [[Your GitHub URL]](https://github.com/Wasif-ZA)
+## 📫 Connect with Me:
+- 📧 Email: [wasif.zaman1@gmail.com](mailto:wasif.zaman1@gmail.com)
+- 🔗 LinkedIn: [Wasif Zaman](https://www.linkedin.com/in/wasif-zaman-4228b5245/)
+- 🐱 GitHub: [Wasif-ZA](https://github.com/Wasif-ZA)
 
 ## ⭐ Showcase Projects:
-- PriorityPilot: An auto-sorting calendar application based on event severity - [[Link to project repository]](https://github.com/Wasif-ZA/PriorityPilot.git)
-- Large Scale Project: Collaborating with a multidisciplinary team to create a comprehensive project - [[Link to project repository]](https://github.com/Wasif-ZA/The-Untilted.git)
+- 📅 **PriorityPilot**: Revolutionizing event management with auto-sorting magic. [Peek into the code](https://github.com/Wasif-ZA/PriorityPilot.git)
+- 🌐 **Large Scale Project**: A symphony of multidisciplinary collaboration. [Dive in](https://github.com/Wasif-ZA/The-Untilted.git)
 
-<!-- OPTIONAL: You can add a section for recent GitHub activity, blog posts, etc. -->
-
-## 📈 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasif-Za&show_icons=true&theme=radical)
+## 📈 Stats and Streaks:
+![Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasif-Za&show_icons=true&theme=radical)
 
 <!-- Replace 'your-username' with your GitHub username to display your stats -->
+
+<!-- Add any other sections you feel would make your profile stand out -->
