@@ -10,7 +10,7 @@
 ## 🛠 Technologies and Tools:
 - Frontend: Next.js, Tailwind, React, three.js
 - Backend: node.js, supabase, AWS
-- C++ Development: openGL, SDL2
+- C++ Development: openGL, SDL2, Cmake
 - Others: GraphQL, GIT, vite, 
 
 ## 📫 How to reach me:
