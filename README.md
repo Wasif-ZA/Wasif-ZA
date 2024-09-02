@@ -27,7 +27,7 @@ I'm a software engineering enthusiast, on a journey to explore the vast world of
 ## ⭐ Showcase Projects:
 - 📅 **PriorityPilot**: Revolutionizing event management with auto-sorting magic. [Peek into the code](https://github.com/Wasif-ZA/PriorityPilot.git)
 - 🌐 **MACRO**: Smart Shopping Assistant with scalable, real-time data management and seamless user experience across web and mobile platforms. [Explore the project](https://github.com/Wasif-ZA/MACRO)
-- 🔧 **ENGG2000_3000**: Advanced engineering solutions with an emphasis on multidisciplinary collaboration. [Dive in](https://github.com/Wasif-ZA/ENGG2000_3000)
+- 🔧 **Blade Runner**: Advanced engineering solutions with an emphasis on multidisciplinary collaboration. [Dive in](https://github.com/Wasif-ZA/ENGG2000_3000)
 
 ## 📈 Stats and Streaks:
 ![Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasif-Za&show_icons=true&theme=radical)
