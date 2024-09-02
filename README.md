@@ -1,3 +1,7 @@
+Here's the updated version for 2024:
+
+---
+
 # Hello, I'm Wasif Zaman! 👋
 
 I'm a software engineering enthusiast, on a journey to explore the vast world of coding and technology. 🌌
@@ -6,7 +10,7 @@ I'm a software engineering enthusiast, on a journey to explore the vast world of
 - 🎓 Currently mastering the art of coding as a second-year software engineering student at Macquarie University.
 - 🌱 Crafting and refining my latest creation: PriorityPilot/WebDEV.
 - 👀 Passion runs deep in my veins for Web Development, architecting C++ applications, and embarking on quests to discover new tech realms.
-- 🥅 2023 Goals: To be an open-source champion 🛡️ and to weave my portfolio into a tapestry of web development and C++ marvels.
+- 🥅 Goals: To be an open-source champion 🛡️ and to weave my portfolio into a tapestry of web development and C++ marvels.
 - ⚡ Fun fact: My brain switches to learning new programming languages mode when I'm not coding!
 
 ## 🛠 My Arsenal:
@@ -22,11 +26,12 @@ I'm a software engineering enthusiast, on a journey to explore the vast world of
 
 ## ⭐ Showcase Projects:
 - 📅 **PriorityPilot**: Revolutionizing event management with auto-sorting magic. [Peek into the code](https://github.com/Wasif-ZA/PriorityPilot.git)
-- 🌐 **Large Scale Project**: A symphony of multidisciplinary collaboration. [Dive in](https://github.com/Wasif-ZA/The-Untilted.git)
+- 🌐 **MACRO**: Smart Shopping Assistant with scalable, real-time data management and seamless user experience across web and mobile platforms. [Explore the project](https://github.com/Wasif-ZA/MACRO)
+- 🔧 **ENGG2000_3000**: Advanced engineering solutions with an emphasis on multidisciplinary collaboration. [Dive in](https://github.com/Wasif-ZA/ENGG2000_3000)
 
 ## 📈 Stats and Streaks:
 ![Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasif-Za&show_icons=true&theme=radical)
 
-<!-- Replace 'your-username' with your GitHub username to display your stats -->
+---
 
-<!-- Add any other sections you feel would make your profile stand out -->
+Feel free to tweak any part further!
