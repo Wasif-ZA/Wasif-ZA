@@ -1,7 +1,3 @@
-Here's the updated version for 2024:
-
----
-
 # Hello, I'm Wasif Zaman! 👋
 
 I'm a software engineering enthusiast, on a journey to explore the vast world of coding and technology. 🌌
