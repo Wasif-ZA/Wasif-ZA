@@ -28,6 +28,4 @@ I'm a software engineering enthusiast, on a journey to explore the vast world of
 ## 📈 Stats and Streaks:
 ![Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasif-Za&show_icons=true&theme=radical)
 
----
 
-Feel free to tweak any part further!
