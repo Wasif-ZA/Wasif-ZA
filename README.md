@@ -1,6 +1,4 @@
-Here’s an updated version of your introduction with your latest projects and experience incorporated:
 
----
 
 # Hello, I'm Wasif Zaman! 👋
 
