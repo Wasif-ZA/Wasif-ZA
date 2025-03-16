@@ -7,7 +7,7 @@ Here’s an updated version of your introduction with your latest projects and e
 I'm a **Software Engineering enthusiast**, continuously exploring the evolving world of technology. 🚀
 
 ## 👨‍💻 About Me:
-- 🎓 Second-year **Software Engineering** student at **Macquarie University**, honing my skills in software development and system design.
+- 🎓 thrid-year **Software Engineering** student at **Macquarie University**, honing my skills in software development and system design.
 - 🌱 Currently working on **PriorityPilot/WebDEV** and contributing to cutting-edge projects.
 - 👀 Passionate about **Web Development**, **C++ application architecture**, and **innovative tech solutions**.
 - 🥅 Goals: To **contribute to open-source**, build impactful **full-stack applications**, and **push the boundaries** of my knowledge.
