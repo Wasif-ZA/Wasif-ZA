@@ -13,25 +13,16 @@ I'm a **Software Engineering enthusiast**, continuously exploring the evolving w
 
 ## 🛠 My Tech Stack:
 - **Frontend Mastery**:  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)  
-  ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)   ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)   ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)  
 
 - **Backend Engineering**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
 
 - **C++ Systems Development**:  
-  ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=flat&logo=opengl)  
-  ![SDL2](https://img.shields.io/badge/-SDL2-8FBCBB?style=flat)  
-  ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake)  
+  ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=flat&logo=opengl)  ![SDL2](https://img.shields.io/badge/-SDL2-8FBCBB?style=flat)  ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake)  
 
 - **Auxiliary Tech**:  
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-  ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite)  
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)    ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite)  
 
 ---
 
