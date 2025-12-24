@@ -1,90 +1,169 @@
 
 
-# Hello, I'm Wasif Zaman! 👋
+---
 
-I'm a **Software Engineering enthusiast**, continuously exploring the evolving world of technology. 🚀
+<div align="center">
 
-## 👨‍💻 About Me:
-- 🎓 thrid-year **Software Engineering** student at **Macquarie University**, honing my skills in software development and system design.
-- 🌱 Currently working on **PriorityPilot/WebDEV** and contributing to cutting-edge projects.
-- 👀 Passionate about **Web Development**, **C++ application architecture**, and **innovative tech solutions**.
-- 🥅 Goals: To **contribute to open-source**, build impactful **full-stack applications**, and **push the boundaries** of my knowledge.
-- ⚡ Fun fact: When I'm not coding, I'm probably **learning a new programming language** just for fun!
+# 👋 Hey, I’m **Wasif Zaman**
 
-## 🛠 My Tech Stack:
-- **Frontend Mastery**:  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)   ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)   ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)  
+### Software Engineering (Honours) Student · Frontend · Application Support · Systems
 
-- **Backend Engineering**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
+<p align="center">
+  <a href="mailto:wasif.zaman1@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/wasif-zaman-4228b5245/">💼 LinkedIn</a> •
+  <a href="https://github.com/Wasif-ZA">🐱 GitHub</a>
+</p>
 
-- **C++ Systems Development**:  
-  ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=flat&logo=opengl)  ![SDL2](https://img.shields.io/badge/-SDL2-8FBCBB?style=flat)  ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake)  
-
-- **Auxiliary Tech**:  
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)    ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite)  
+</div>
 
 ---
 
-## 📫 Connect with Me:
-- 📧 **Email**: [wasif.zaman1@gmail.com](mailto:wasif.zaman1@gmail.com)
-- 🔗 **LinkedIn**: [Wasif Zaman](https://www.linkedin.com/in/wasif-zaman-4228b5245/)
-- 🐱 **GitHub**: [Wasif-ZA](https://github.com/Wasif-ZA)
+## 🚀 About Me
+
+```txt
+Software Engineering student building real systems,
+not just assignments.
+```
+
+* 🎓 Third-year **Software Engineering (Honours)** student at **Macquarie University**
+* 🧠 Strong foundation in **systems, networking, and software design**
+* 💻 Experience across **frontend**, **backend**, and **embedded systems**
+* 🌱 Currently building **PriorityPilot** and maintaining a **production society website**
+* 🎯 Career focus: **Application Support → Software Engineer**
+* ⚡ Enjoy learning new technologies by building with them
 
 ---
 
-## ⭐ Featured Projects:
-### 📅 **PriorityPilot** (Ongoing)
-🔹 Revolutionizing **event management** with an **auto-sorting** system for optimized scheduling.  
-🔹 **Tech Stack**: Next.js, Tailwind CSS, Supabase, GraphQL  
-🔹 **[View Project](https://github.com/Wasif-ZA/PriorityPilot.git)**  
+## 🧩 Tech Stack
 
-### 🛍️ **Shopify E-Commerce Platform** (Aug 2024 – Sep 2024)
-🔹 Developed a **responsive, accessible** shopping experience on Shopify.  
-🔹 **Tech Stack**: Shopify Liquid, Tailwind CSS, JavaScript  
-🔹 **[View Project](https://github.com/Wasif-ZA/Shopify-Ecommerce)**  
+### 🎨 Frontend
 
-### 🌐 **Rank2Revenue – Company Website** (Oct 2024 – Nov 2024)
-🔹 Built a **high-performance**, **low-latency** business website with a **custom CMS**.  
-🔹 **Tech Stack**: TypeScript, React, Next.js, Supabase  
-🔹 **[Explore](https://github.com/Wasif-ZA/Rank2Revenue)**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat\&logo=tailwind-css)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat\&logo=shopify)
 
-### 🚀 **Macquarie University: Motion Control System** (June 2024 – Nov 2024)
-🔹 Engineered **C++ motion control software** for real-time **hardware integration**.  
-🔹 Collaborated with multidisciplinary teams on **real-time data exchange** and **collision detection**.  
-🔹 **Tech Stack**: C++, Arduino, GitHub  
-🔹 **[Project Details](https://github.com/Wasif-ZA/MotionControlSystem)**  
+### ☁️ Backend & Cloud
 
-### 📦 **RFID Inventory Tracker** (Jan 2023 – Jul 2023)
-🔹 Led **Agile sprints** to develop an **RFID-enabled tracking system** for inventory management.  
-🔹 **Tech Stack**: Java, Agile, GitHub  
-🔹 **[Project Repository](https://github.com/Wasif-ZA/RFID-Tracker)**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws)
 
----
+### ⚙️ Systems
 
-## 💼 Work Experience:
-- **💻 Software Engineer at Rank2Revenue** (Oct 2024 – Present)  
-  🔹 Architected and deployed a **scalable** web infrastructure with **enhanced UX/UI**.  
-  🔹 Integrated **secure backend services** and **optimized website performance**.  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat\&logo=arduino)
+![OpenGL](https://img.shields.io/badge/OpenGL-white?style=flat\&logo=opengl)
+![SDL2](https://img.shields.io/badge/SDL2-8FBCBB?style=flat)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat\&logo=cmake)
 
-- **🛍️ Sales Assistant at Woolworths Group** (Feb 2023 – Present)  
-  🔹 Boosted sales by **10%** and improved **customer satisfaction by 20%** through product expertise.  
+### 🧰 Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat\&logo=graphql)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat\&logo=vite)
 
 ---
 
-## 📜 Certifications:
-- **Google: Data Analytics Professional Certificate** (Issued May 2022)  
-  🔹 Proficient in **SQL, R programming, Tableau, and data visualization**.  
-- **Meta: Programming with JavaScript** (Issued May 2022)  
-  🔹 Strong understanding of **JavaScript fundamentals and DOM manipulation**.  
-- **IBM: Cloud Computing Certification** (Issued May 2022)  
-  🔹 Mastered **cloud concepts**, including **IaaS, PaaS, and SaaS**.  
+## ⭐ Projects
+
+### 🌐 **UTS Bangladeshi Society — Official Website**
+
+* IT Director & sole technical contributor
+* Full **Next.js App Router** rebuild
+* Dynamic events, galleries, and animations
+* Built **“The Graamy’s”** real-time voting platform
+* Collaborated with non-technical teams using staged previews
+  **Tech:** Next.js · TypeScript · Tailwind · Firebase
 
 ---
 
-## 📈 GitHub Stats & Streaks:
-![Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasif-ZA&show_icons=true&theme=radical)
+### 🌉 **Bridge Opening System**
+
+* Safety-critical movable bridge control logic
+* ESP32 ↔ Arduino Nano communication
+* Heartbeat monitoring and fail-safe handling
+* Manual / automatic modes and emergency stop
+  **Tech:** C++ · Arduino · Embedded Systems
 
 ---
 
-This version integrates **your latest projects, work experience, and coursework**, making it **more detailed, professional, and engaging**. Let me know if you'd like any changes! 🚀
+### 📅 **PriorityPilot**
+
+* Smart scheduling and prioritisation platform
+* Auto-sorting logic for tasks and events
+* Predictable state and clean UI
+  **Tech:** Next.js · Tailwind · Supabase · GraphQL
+
+---
+
+### 🌐 **Rank2Revenue — Company Website**
+
+* High-performance business website
+* SEO-focused, low-latency architecture
+  **Tech:** TypeScript · React · Next.js · Supabase
+
+---
+
+### 🛍 **Shopify E-Commerce Platform**
+
+* Responsive and accessible storefront
+* Custom Liquid templates and UI behaviour
+  **Tech:** Shopify Liquid · Tailwind · JavaScript
+
+---
+
+### 🚀 **Motion Control System**
+
+* Real-time C++ control software
+* Collision detection and sensor-driven logic
+* Multidisciplinary engineering collaboration
+  **Tech:** C++ · Arduino
+
+---
+
+### 📦 **RFID Inventory Tracker**
+
+* Agile team project (Scrum Master)
+* RFID-based inventory tracking system
+  **Tech:** Java · Agile
+
+---
+
+## 💼 Experience
+
+**💻 Software Engineer — Rank2Revenue**
+
+* Built and deployed scalable production websites
+* Integrated backend services and improved performance
+
+**📡 Sales Consultant — Optus**
+
+* Diagnosed network, SIM, and provisioning issues
+* Used internal diagnostic tools and CRM workflows
+* Logged incidents and followed escalation procedures
+
+**🛍 Sales Assistant — Woolworths Group**
+
+* Supported POS and digital systems in high-volume retail
+
+---
+
+## 📜 Certifications
+
+* Google — Data Analytics Professional Certificate
+* Meta — Programming with JavaScript
+* IBM — Cloud Computing
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasif-ZA\&show_icons=true\&theme=radical)
+
+</div>
+
+---
