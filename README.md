@@ -1,97 +1,268 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Wasif%20Zaman&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20(Honours)%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Wasif%20Zaman&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineering%20(Honours)%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=52"/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasif.zaman1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasif-zaman-4228b5245/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wasif-ZA)
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Ship+it.+Maintain+it.+Improve+it." alt="Typing SVG" /></a>
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/wasif.zaman1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wasif.zaman1@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/wasif--zaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasif-zaman-4228b5245/)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Wasif--ZA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wasif-ZA)&nbsp;&nbsp;
+[![Location](https://img.shields.io/badge/Sydney,_Australia-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Wasif-ZA&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-## About Me
+## `> whoami`
 
-Third-year **Software Engineering (Honours)** student at Macquarie University, based in Sydney. I build production systems, embedded controllers, and full-stack web applications — with a focus on shipping things that are maintainable and actually used by real people.
+Third-year **Software Engineering (Honours)** student at **Macquarie University**. I build production systems, embedded controllers, and full-stack web apps — focused on things that actually ship, get maintained, and serve real users.
 
-Currently serving as **IT Director** at UTSBDSOC (500+ members), working at **Woolworths** since Feb 2023, and building side projects in the task management and developer tooling space.
+<table>
+<tr>
+<td>🔧</td>
+<td><strong>IT Director</strong> @ UTSBDSOC — production systems for 500+ members</td>
+</tr>
+<tr>
+<td>🛒</td>
+<td><strong>Sales Assistant</strong> @ Woolworths — frontline tech support since Feb 2023</td>
+</tr>
+<tr>
+<td>📡</td>
+<td><strong>Former Sales Consultant</strong> @ Optus — 25–35 technical issues resolved daily</td>
+</tr>
+<tr>
+<td>🎯</td>
+<td><strong>Seeking</strong> Application Support / Graduate SWE roles</td>
+</tr>
+</table>
 
-**Looking for:** Application Support or Graduate SWE roles.
+<br/>
 
----
+## `> tech --list`
 
-## Tech Stack
+<div align="center">
 
-**Frontend:** Next.js 14 · React · TypeScript · Tailwind CSS · Shopify Liquid
+| | Technologies |
+|:---|:---|
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Shopify](https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Systems** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
-**Backend & Cloud:** Node.js · Supabase · Firebase · AWS · GraphQL · PostgreSQL
+</div>
 
-**Systems & Embedded:** C++ · Python · Java · Arduino · ESP32
+<div align="center">
 
-**Data & DevOps:** SQL · R · Tableau · Git · Docker · Jira
+![Google](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
+![Meta](https://img.shields.io/badge/Meta-JavaScript-0668E1?style=flat-square&logo=meta&logoColor=white)&nbsp;
+![IBM](https://img.shields.io/badge/IBM-Cloud_Computing-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-**Certifications:** Google Data Analytics · Meta JavaScript · IBM Cloud Computing
+</div>
 
----
+<br/>
 
-## Featured Projects
+## `> projects --featured`
 
-### Live & Production
+<h3>
+<img src="https://img.shields.io/badge/●-00FF00?style=flat-square" width="10"/>
+&nbsp;Live & Production
+</h3>
 
-**[UTSBDSOC Official Website](https://github.com/Wasif-ZA)** — *IT Director & Sole Developer*
-Full production site for the UTS Bangladeshi Society. Next.js 14 App Router, real-time voting platform ("The Graamy's"), dynamic CMS, CI/CD with staged previews. Coordinated with non-technical stakeholders across Dance, Music, Events, and Marketing teams.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 UTSBDSOC Official Website
+
+<img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/500+_Users-6366F1?style=flat-square"/>
+
+**IT Director & Sole Developer** — Full production website for UTS Bangladeshi Society.
+
+Next.js 14 App Router · Real-time voting platform ("The Graamy's") · Dynamic CMS with event galleries · CI/CD with staged preview deployments · Non-technical stakeholder workflows
+
 `Next.js` `TypeScript` `Tailwind` `Firebase`
 
-**Shopify E-Commerce** — *Client & Personal Projects*
-Custom e-commerce builds focused on performance and conversion. Custom Liquid templates, Core Web Vitals optimization, accessible responsive UI, and third-party API integrations.
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Shopify E-Commerce
+
+<img src="https://img.shields.io/badge/PRODUCTION-00C853?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Client_Work-FF9800?style=flat-square"/>
+
+**Client & Personal Projects** — Custom e-commerce implementations focused on performance and conversion.
+
+Custom Liquid templates & themes · Core Web Vitals optimization · Responsive accessible UI · Custom checkout flows · Third-party API integrations
+
 `Shopify` `Liquid` `JavaScript` `REST API`
 
-### In Development
+</td>
+</tr>
+</table>
 
-**PriorityPilot** — Smart task prioritisation with deterministic sorting, real-time state persistence, and productivity tool integration.
+<h3>
+<img src="https://img.shields.io/badge/●-FFD700?style=flat-square" width="10"/>
+&nbsp;In Development
+</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📅 PriorityPilot
+
+<img src="https://img.shields.io/badge/Active-FFA500?style=flat-square"/>
+
+**Smart Task Prioritisation** — Deterministic sorting algorithms, real-time state persistence, clarity-focused UI, productivity tool integration.
+
 `Next.js` `Supabase` `GraphQL`
 
-**GearBoxStudio** — Reusable UI component library with a design token system and scalable layout patterns. SaaS licensing model.
+</td>
+<td width="33%" valign="top">
+
+### 🏗️ GearBoxStudio
+
+<img src="https://img.shields.io/badge/Building-FFA500?style=flat-square"/>
+
+**UI Template System** — Reusable component library, design token system, scalable layout patterns, SaaS licensing model.
+
 `Next.js` `Tailwind` `Storybook`
 
-**DecisionLog** — ADR tracking tool with structured decision logging, full-text search, and team collaboration.
+</td>
+<td width="33%" valign="top">
+
+### 🧠 DecisionLog
+
+<img src="https://img.shields.io/badge/Planning-FFA500?style=flat-square"/>
+
+**ADR Tracking Tool** — Structured decision logging, full-text search & filters, decision analytics, team collaboration.
+
 `TypeScript` `PostgreSQL`
 
-### Completed (University)
+</td>
+</tr>
+</table>
 
-**Bridge Control System** · Macquarie University · *Jun–Nov 2025*
-Safety-critical embedded system for automated bridge operation. ESP32 ↔ Arduino communication, heartbeat monitoring, fail-safe emergency stop, manual/automatic modes, weight and position sensing.
+<h3>
+<img src="https://img.shields.io/badge/●-3B82F6?style=flat-square" width="10"/>
+&nbsp;Completed (University)
+</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌉 Bridge Control System
+
+<img src="https://img.shields.io/badge/Completed-3B82F6?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Safety_Critical-DC2626?style=flat-square"/>
+
+**Jun–Nov 2025** — Embedded control for automated bridge operation. ESP32 ↔ Arduino comms, heartbeat monitoring, fail-safe emergency stop, manual/auto modes, weight & position sensing.
+
 `C++` `Arduino` `ESP32`
 
-**Motion Control System** · Macquarie University · *Jun–Nov 2024*
-Motor-driven carriage with modular control architecture. Speed/sequence control, collision detection, real-time serial comms, sensor noise handling.
+</td>
+<td width="33%" valign="top">
+
+### 🎮 Motion Control System
+
+<img src="https://img.shields.io/badge/Completed-3B82F6?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Embedded-7C3AED?style=flat-square"/>
+
+**Jun–Nov 2024** — Motor-driven carriage with modular control architecture. Speed & sequence control, collision detection, real-time serial comms, sensor noise handling.
+
 `C++` `Arduino`
 
-**RFID Inventory Tracker** · Macquarie University · *Jan–Jul 2023*
-Automated inventory management with RFID. Led Agile sprints as Scrum Master, ran requirements workshops, managed real-time scanning and auto-sync.
+</td>
+<td width="33%" valign="top">
+
+### 📦 RFID Inventory Tracker
+
+<img src="https://img.shields.io/badge/Completed-3B82F6?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Scrum_Master-059669?style=flat-square"/>
+
+**Jan–Jul 2023** — Automated inventory management with RFID. Led Agile sprints as Scrum Master, ran user workshops, real-time scanning with auto-sync.
+
 `Java` `Git` `Agile/Scrum`
 
----
+</td>
+</tr>
+</table>
 
-## Experience
+<br/>
 
-**Optus — Sales Consultant** · *Jul–Dec 2025*
-Frontline technical troubleshooting and account management. Resolved 25–35 technical issues per shift (SIM provisioning, network diagnostics, VoIP, device config). 100% CRM/billing accuracy.
+## `> experience --timeline`
 
-**UTSBDSOC — IT Director** · *May 2025–Present*
-Digital transformation for a 500+ member society. Reduced manual tasks by 30–40%, cut event downtime, and compressed onboarding from weeks to days.
+<table>
+<tr>
+<td width="15%" align="center"><strong>📡 Optus</strong><br/><sub>Jul–Dec 2025</sub></td>
+<td>
 
-**Woolworths — Sales Assistant** · *Feb 2023–Present*
-Supporting 40–70 customers per shift with POS, kiosk, and self-checkout systems. Troubleshooting 10–20 digital issues per shift and translating technical problems into plain language.
+**Sales Consultant** — Frontline technical troubleshooting & account management. Resolved **25–35 issues/shift** across SIM provisioning, network diagnostics, VoIP, and device config. **100% CRM/billing accuracy.**
 
----
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><strong>🖥️ UTSBDSOC</strong><br/><sub>May 2025–Now</sub></td>
+<td>
 
-## GitHub Analytics
+**IT Director** — Digital transformation for 500+ member society. **30–40% task automation**, significantly reduced event downtime, compressed onboarding from **weeks → days**.
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><strong>🛒 Woolworths</strong><br/><sub>Feb 2023–Now</sub></td>
+<td>
+
+**Sales Assistant** — Supporting **40–70 customers/shift** with POS, kiosk & self-checkout systems. Troubleshooting **10–20 digital issues/shift**, translating technical problems into customer-friendly language.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> education`
+
+<div align="center">
+
+### 🏛️ Macquarie University
+
+**Bachelor of Engineering (Honours) — Software Engineering**
+<br/>
+<sub>Feb 2022 – Present · North Ryde, Sydney</sub>
+
+</div>
+
+<details>
+<summary>&nbsp;<strong>Relevant Coursework</strong></summary>
+<br/>
+
+| Area | Courses |
+|:---|:---|
+| **Core CS** | Data Structures & Algorithms · Database Systems · Operating Systems |
+| **Software** | Software Development Methodologies · Agile Project Management |
+| **Systems** | Embedded Systems · Computer Networks · Cloud Computing |
+
+</details>
+
+<br/>
+
+## `> stats`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wasif-ZA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" height="170"/>
+&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wasif-ZA&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasif-ZA&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%"/>
 
 </div>
 
@@ -99,7 +270,10 @@ Supporting 40–70 customers per shift with POS, kiosk, and self-checkout system
 
 <div align="center">
 
-**Open to opportunities in Application Support, Software Engineering, and Full-Stack Development.**
+<img src="https://img.shields.io/badge/Open_to-Application_Support-A855F7?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Graduate_SWE-A855F7?style=for-the-badge"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 
