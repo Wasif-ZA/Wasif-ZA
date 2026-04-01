@@ -359,7 +359,7 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <br/>
 
-<sub>Feb 2022 – Jun 2026 · North Ryde, Sydney</sub>
+<sub>Feb 2022 – Jun 2027 · North Ryde, Sydney</sub>
 
 <br/><br/>
 
