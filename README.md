@@ -276,14 +276,74 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="28"> &nbsp;`experience --timeline`
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/2025–NOW-E7352C?style=for-the-badge&labelColor=1a1a2e"/>
+
+### 💻 Lenovo
+
+**Hardware Deployment Technician**
+
 ```
- ROLE                              COMPANY        PERIOD          HIGHLIGHTS
-──────────────────────────────────────────────────────────────────────────────────
- Hardware Deployment Technician     Lenovo         2025–Now        Enterprise deploy & imaging
- IT Director                       UTSBDSOC       2025–Now        30–40% task automation
- Sales Consultant                  Optus          Jul–Dec 2025    25–35 issues/shift resolved
- Sales Assistant                   Woolworths     Feb 2023–Now    40–70 customers/shift
+🖥️ Enterprise imaging
+📦 Hardware deployment
+🔧 Client site config
 ```
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/2025–NOW-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+
+### 🖥️ UTSBDSOC
+
+**IT Director**
+
+```
+⚡ 30–40% task automation
+📉 Reduced event downtime
+🚀 Onboarding: weeks → days
+```
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/JUL–DEC_2025-0066FF?style=for-the-badge&labelColor=1a1a2e"/>
+
+### 📡 Optus
+
+**Sales Consultant**
+
+```
+🔧 25–35 issues/shift
+📊 100% CRM accuracy
+🌐 SIM, VoIP, network
+```
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/FEB_2023–NOW-00C853?style=for-the-badge&labelColor=1a1a2e"/>
+
+### 🛒 Woolworths
+
+**Sales Assistant**
+
+```
+👥 40–70 customers/shift
+🖥️ POS & kiosk support
+🔧 10–20 tech issues/shift
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -291,27 +351,58 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <div align="center">
 
-### 🏛️ Macquarie University
+<img src="https://img.shields.io/badge/🏛️_MACQUARIE_UNIVERSITY-302b63?style=for-the-badge"/>
 
-**Bachelor of Engineering (Honours) — Software Engineering**
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Eng_(Honours)-Software_Engineering-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br/>
 
 <sub>Feb 2022 – Jun 2026 · North Ryde, Sydney</sub>
 
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/CORE_CS-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
+
+```
+📊 Data Structures & Algorithms
+🗄️ Database Systems
+⚙️ Operating Systems
+🌐 Distributed Systems
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/SOFTWARE-059669?style=for-the-badge&labelColor=1a1a2e"/>
+
+```
+🔄 Dev Methodologies
+📋 Agile Project Management
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/SYSTEMS-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+
+```
+🔌 Embedded Systems
+📡 Computer Networks
+☁️ Cloud Computing
+🔐 Cybersecurity
+```
+
+</td>
+</tr>
+</table>
+
 </div>
-
-<br/>
-
-<details>
-<summary>&nbsp;<strong>📚 Relevant Coursework</strong></summary>
-<br/>
-
-| Area | Courses |
-|:---|:---|
-| **Core CS** | Data Structures & Algorithms · Database Systems · Operating Systems · Distributed Systems |
-| **Software** | Software Development Methodologies · Agile Project Management |
-| **Systems** | Embedded Systems · Computer Networks · Cloud Computing · Cybersecurity |
-
-</details>
 
 <br/>
 
