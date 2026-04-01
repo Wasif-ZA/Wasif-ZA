@@ -23,16 +23,16 @@
 
 ## `> whoami`
 
-Third-year **Software Engineering (Honours)** student at **Macquarie University**. I build production systems, embedded controllers, and full-stack web apps — focused on things that actually ship, get maintained, and serve real users.
+Final-year **Software Engineering (Honours)** student at **Macquarie University** (graduating June 2026). I build production systems, embedded controllers, and full-stack web apps — focused on things that actually ship, get maintained, and serve real users.
 
 <table>
 <tr>
 <td>🔧</td>
-<td><strong>IT Director</strong> @ UTSBDSOC — production systems for 500+ members</td>
+<td><strong>IT Director</strong> @ UTSBDSOC — production systems for 300+ members</td>
 </tr>
 <tr>
-<td>🛒</td>
-<td><strong>Sales Assistant</strong> @ Woolworths — frontline tech support since Feb 2023</td>
+<td>💻</td>
+<td><strong>Hardware Deployment Technician</strong> @ Lenovo (via ENbridge IT Services)</td>
 </tr>
 <tr>
 <td>📡</td>
@@ -40,7 +40,7 @@ Third-year **Software Engineering (Honours)** student at **Macquarie University*
 </tr>
 <tr>
 <td>🎯</td>
-<td><strong>Seeking</strong> Application Support / Graduate SWE roles</td>
+<td><strong>Seeking</strong> Graduate SWE / Application Support roles</td>
 </tr>
 </table>
 
@@ -53,9 +53,10 @@ Third-year **Software Engineering (Honours)** student at **Macquarie University*
 | | Technologies |
 |:---|:---|
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Shopify](https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI / APIs** | ![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) |
 | **Systems** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 </div>
 
@@ -82,26 +83,13 @@ Third-year **Software Engineering (Honours)** student at **Macquarie University*
 
 ### 🌐 UTSBDSOC Official Website
 
-<img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/500+_Users-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/LIVE-00C853?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/300+_Users-6366F1?style=flat-square"/>
 
 **IT Director & Sole Developer** — Full production website for UTS Bangladeshi Society.
 
 Next.js 14 App Router · Real-time voting platform ("The Graamy's") · Dynamic CMS with event galleries · CI/CD with staged preview deployments · Non-technical stakeholder workflows
 
 `Next.js` `TypeScript` `Tailwind` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Shopify E-Commerce
-
-<img src="https://img.shields.io/badge/PRODUCTION-00C853?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Client_Work-FF9800?style=flat-square"/>
-
-**Client & Personal Projects** — Custom e-commerce implementations focused on performance and conversion.
-
-Custom Liquid templates & themes · Core Web Vitals optimization · Responsive accessible UI · Custom checkout flows · Third-party API integrations
-
-`Shopify` `Liquid` `JavaScript` `REST API`
 
 </td>
 </tr>
@@ -114,37 +102,30 @@ Custom Liquid templates & themes · Core Web Vitals optimization · Responsive a
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 📅 PriorityPilot
+### 📅 UTSBDSOC Event Management Dashboard
 
-<img src="https://img.shields.io/badge/Active-FFA500?style=flat-square"/>
+<img src="https://img.shields.io/badge/Active-FFA500?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Multi--Agent_Dev-7C3AED?style=flat-square"/>
 
-**Smart Task Prioritisation** — Deterministic sorting algorithms, real-time state persistence, clarity-focused UI, productivity tool integration.
+**Internal Operations Platform** — Centralized dashboard for event creation, member communications, attendance tracking, and committee workflows. Built using a multi-agent parallel development workflow (Claude Code for backend, Gemini CLI for frontend, GitHub Copilot for testing/DevOps) with strict file ownership boundaries.
 
-`Next.js` `Supabase` `GraphQL`
+Role-based access control · Email notifications via Resend · Discord webhook integrations · Supabase real-time subscriptions · Full documentation across 14 Notion pages
 
-</td>
-<td width="33%" valign="top">
-
-### 🏗️ GearBoxStudio
-
-<img src="https://img.shields.io/badge/Building-FFA500?style=flat-square"/>
-
-**UI Template System** — Reusable component library, design token system, scalable layout patterns, SaaS licensing model.
-
-`Next.js` `Tailwind` `Storybook`
+`Next.js 14` `Supabase` `Prisma` `Resend` `Vercel`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧠 DecisionLog
+### ⚡ Korvo
 
-<img src="https://img.shields.io/badge/Planning-FFA500?style=flat-square"/>
+<img src="https://img.shields.io/badge/Active-FFA500?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/AI--Powered_SaaS-A855F7?style=flat-square"/>
 
-**ADR Tracking Tool** — Structured decision logging, full-text search & filters, decision analytics, team collaboration.
+**Job Outreach Automation** — AI-powered SaaS that replaces the manual grind of cold networking. Enter a company name, get contacts with personalized cold emails ready to send.
 
-`TypeScript` `PostgreSQL`
+Multi-layered data access (no LinkedIn scraping) · Claude API-driven contact finding & email drafting · Outreach pipeline tracking · Stripe billing · Google OAuth via Supabase Auth
+
+`Next.js 14` `Supabase` `Claude API` `Stripe` `Vercel`
 
 </td>
 </tr>
@@ -152,18 +133,20 @@ Custom Liquid templates & themes · Core Web Vitals optimization · Responsive a
 
 <h3>
 <img src="https://img.shields.io/badge/●-3B82F6?style=flat-square" width="10"/>
-&nbsp;Completed (University)
+&nbsp;Completed
 </h3>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🌉 Bridge Control System
+### 🌉 Bridge Opening System
 
 <img src="https://img.shields.io/badge/Completed-3B82F6?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Safety_Critical-DC2626?style=flat-square"/>
 
-**Jun–Nov 2025** — Embedded control for automated bridge operation. ESP32 ↔ Arduino comms, heartbeat monitoring, fail-safe emergency stop, manual/auto modes, weight & position sensing.
+**Honours Capstone** — Embedded control system for automated bridge operation. Dual-microcontroller architecture with safety-critical design patterns.
+
+ESP32 ↔ Arduino serial comms · Heartbeat monitoring · Fail-safe emergency stop · Manual/auto modes · Weight & position sensing
 
 `C++` `Arduino` `ESP32`
 
@@ -185,7 +168,7 @@ Custom Liquid templates & themes · Core Web Vitals optimization · Responsive a
 
 <img src="https://img.shields.io/badge/Completed-3B82F6?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Scrum_Master-059669?style=flat-square"/>
 
-**Jan–Jul 2023** — Automated inventory management with RFID. Led Agile sprints as Scrum Master, ran user workshops, real-time scanning with auto-sync.
+**Team Project** — Automated inventory management with RFID. Led Agile sprints as Scrum Master, ran user workshops, real-time scanning with auto-sync.
 
 `Java` `Git` `Agile/Scrum`
 
@@ -199,18 +182,26 @@ Custom Liquid templates & themes · Core Web Vitals optimization · Responsive a
 
 <table>
 <tr>
-<td width="15%" align="center"><strong>📡 Optus</strong><br/><sub>Jul–Dec 2025</sub></td>
+<td width="15%" align="center"><strong>💻 Lenovo</strong><br/><sub>2025–Now</sub></td>
 <td>
 
-**Sales Consultant** — Frontline technical troubleshooting & account management. Resolved **25–35 issues/shift** across SIM provisioning, network diagnostics, VoIP, and device config. **100% CRM/billing accuracy.**
+**Hardware Deployment Technician** — Enterprise hardware deployment, imaging, and configuration across client sites.
 
 </td>
 </tr>
 <tr>
-<td width="15%" align="center"><strong>🖥️ UTSBDSOC</strong><br/><sub>May 2025–Now</sub></td>
+<td width="15%" align="center"><strong>🖥️ UTSBDSOC</strong><br/><sub>2025–Now</sub></td>
 <td>
 
-**IT Director** — Digital transformation for 500+ member society. **30–40% task automation**, significantly reduced event downtime, compressed onboarding from **weeks → days**.
+**IT Director** — Digital transformation for 300+ member society. **30–40% task automation**, significantly reduced event downtime, compressed onboarding from **weeks to days**.
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><strong>📡 Optus</strong><br/><sub>Jul–Dec 2025</sub></td>
+<td>
+
+**Sales Consultant** — Frontline technical troubleshooting & account management. Resolved **25–35 issues/shift** across SIM provisioning, network diagnostics, VoIP, and device config. **100% CRM/billing accuracy.**
 
 </td>
 </tr>
@@ -234,7 +225,7 @@ Custom Liquid templates & themes · Core Web Vitals optimization · Responsive a
 
 **Bachelor of Engineering (Honours) — Software Engineering**
 <br/>
-<sub>Feb 2022 – Present · North Ryde, Sydney</sub>
+<sub>Feb 2022 – Jun 2026 · North Ryde, Sydney</sub>
 
 </div>
 
@@ -244,9 +235,9 @@ Custom Liquid templates & themes · Core Web Vitals optimization · Responsive a
 
 | Area | Courses |
 |:---|:---|
-| **Core CS** | Data Structures & Algorithms · Database Systems · Operating Systems |
+| **Core CS** | Data Structures & Algorithms · Database Systems · Operating Systems · Distributed Systems |
 | **Software** | Software Development Methodologies · Agile Project Management |
-| **Systems** | Embedded Systems · Computer Networks · Cloud Computing |
+| **Systems** | Embedded Systems · Computer Networks · Cloud Computing · Cybersecurity |
 
 </details>
 
@@ -270,8 +261,8 @@ Custom Liquid templates & themes · Core Web Vitals optimization · Responsive a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open_to-Application_Support-A855F7?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/Open_to-Graduate_SWE-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_to-Graduate_SWE-A855F7?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Application_Support-A855F7?style=for-the-badge"/>
 
 <br/><br/>
 
