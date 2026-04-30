@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Wasif%20Zaman&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=Software%20Engineering%20(Honours)%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=48&descColor=c4b5fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Wasif%20Zaman&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=Software%20Engineering%20(Honours)%20%7C%20Full-Stack%20%2B%20Embedded&descSize=18&descAlignY=48&descColor=c4b5fd"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%9A%80+Ship+it.+Maintain+it.+Improve+it.;%E2%9A%A1+Systems+that+serve+real+users.;%F0%9F%94%A7+From+embedded+to+full-stack.;%F0%9F%8E%AF+Building+what+matters." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Ship+it.+Maintain+it.+Improve+it.;Systems+that+serve+real+users.;From+embedded+controllers+to+full-stack.;Building+what+matters." alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -27,42 +27,52 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`whoami`
 
 ```
-Final-year Software Engineering (Honours) @ Macquarie University — graduating June 2026.
-I build production systems, embedded controllers, and full-stack web apps.
-Focused on things that actually ship, get maintained, and serve real users.
+Software Engineering (Honours) @ Macquarie University, graduating June 2027.
+Sydney-based. I build production web apps, embedded controllers, and AI-powered tooling.
+Focused on systems that ship, get maintained, and serve real users.
 ```
 
 <br/>
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
+
 <img src="https://img.shields.io/badge/IT_DIRECTOR-7C3AED?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"/><br/>
 <b>UTSBDSOC</b><br/>
-<sub>Production systems for 300+ members</sub>
+<sub>Production website + tooling for ~500 members</sub>
+
 </td>
 <td align="center" width="25%">
+
 <img src="https://img.shields.io/badge/HARDWARE_TECH-E7352C?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30"/><br/>
 <b>Lenovo</b><br/>
-<sub>Enterprise deployment & imaging</sub>
+<sub>Enterprise device deployment, BIOS, OS imaging</sub>
+
 </td>
 <td align="center" width="25%">
+
 <img src="https://img.shields.io/badge/FORMER_SALES-0066FF?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/><br/>
 <b>Optus</b><br/>
-<sub>25-35 technical issues/day</sub>
+<sub>Sales consultant (Jul to Dec 2025)</sub>
+
 </td>
 <td align="center" width="25%">
+
 <img src="https://img.shields.io/badge/OPEN_TO_WORK-00C853?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"/><br/>
 <b>Seeking</b><br/>
-<sub>Graduate SWE / App Support</sub>
+<sub>Graduate SWE / Application Support, Sydney</sub>
+
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
@@ -73,9 +83,9 @@ Focused on things that actually ship, get maintained, and serve real users.
 
 | | Technologies |
 |:---|:---|
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI / APIs** | ![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) |
+| **AI / APIs** | ![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-A855F7?style=flat-square) ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) |
 | **Systems** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
@@ -98,31 +108,32 @@ Focused on things that actually ship, get maintained, and serve real users.
 <br/>
 
 > [!NOTE]
-> ### 🟢 &nbsp; Live & Production
+> ### Live & Production
 
 <table>
 <tr>
 <td>
 
-### 🌐 UTSBDSOC Official Website
+### UTSBDSOC Official Website
 
 <div>
-<img src="https://img.shields.io/badge/🔴_LIVE-00C853?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/300+_USERS-6366F1?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/~500_MEMBERS-6366F1?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/SOLE_DEVELOPER-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/MIT_LICENSED-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
 <br/>
 
-**IT Director & Sole Developer** — Full production website for UTS Bangladeshi Society.
+**IT Director & Sole Developer.** Production website for UTS Bangladeshi Society.
 
 ```
-✦ Next.js 14 App Router              ✦ CI/CD with staged preview deploys
-✦ Real-time voting ("The Graamy's")   ✦ Non-technical stakeholder workflows
-✦ Dynamic CMS with event galleries
+- Next.js 16 App Router + React 19          - Prisma + PostgreSQL on Supabase
+- The Graamys: 9-category awards            - Dynamic CMS, event galleries
+  nomination + voting system                - Vercel CI/CD with preview deploys
 ```
 
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js_16-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 </td>
 </tr>
@@ -131,13 +142,38 @@ Focused on things that actually ship, get maintained, and serve real users.
 <br/>
 
 > [!WARNING]
-> ### 🟡 &nbsp; In Development
+> ### In Development
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📅 UTSBDSOC Event Management Dashboard
+### Conduit
+
+<div>
+<img src="https://img.shields.io/badge/ACTIVE-FFA500?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/OPEN--CORE_SAAS-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
+</div>
+
+<br/>
+
+**Developer-first MCP toolkit.** Open-core SaaS for the connect-debug-ship loop with Model Context Protocol servers. Currently in re-baseline post-pivot, targeting v1 demo late May / early June 2026.
+
+```
+- Connect MCP servers fast
+- Debug locally with real auth
+- Ship to production without
+  glue-code burnout
+```
+
+Authoring stack revisit underway: Next.js 16 + Supabase + Nango + Stripe.
+
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-A855F7?style=flat-square"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### UTSBDSOC Event Management Dashboard
 
 <div>
 <img src="https://img.shields.io/badge/ACTIVE-FFA500?style=for-the-badge&labelColor=1a1a2e"/>
@@ -146,43 +182,18 @@ Focused on things that actually ship, get maintained, and serve real users.
 
 <br/>
 
-**Internal Operations Platform** — Centralized dashboard for event creation, member communications, attendance tracking, and committee workflows.
-
-Built using a multi-agent parallel dev workflow:
+**Internal operations platform.** Centralized dashboard for event creation, member communications, attendance tracking, and committee workflows.
 
 ```
-🤖 Claude Code  → Backend
-🎨 Gemini CLI   → Frontend
-🧪 GH Copilot   → Testing / DevOps
+Multi-agent parallel dev workflow:
+- Claude Code  -> backend
+- Gemini CLI   -> frontend
+- GH Copilot   -> testing / DevOps
 ```
 
-Strict file ownership boundaries · Role-based access control · Email via Resend · Discord webhooks · Supabase real-time · 14 Notion doc pages
+Strict file ownership boundaries, role-based access control, email via Resend, Discord webhooks, Supabase real-time.
 
-<img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Resend-000?style=flat-square"/> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Korvo
-
-<div>
-<img src="https://img.shields.io/badge/ACTIVE-FFA500?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/AI--POWERED_SAAS-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
-</div>
-
-<br/>
-
-**Job Outreach Automation** — AI-powered SaaS that replaces the manual grind of cold networking. Enter a company name, get contacts with personalized cold emails ready to send.
-
-```
-🎯 Company in → Emails out.
-🚫 No LinkedIn scraping.
-🔗 No stitching tools together.
-```
-
-Multi-layered data access · Claude API-driven contact finding & email drafting · Outreach pipeline tracking · Stripe billing · Google OAuth via Supabase Auth
-
-<img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Resend-000?style=flat-square"/> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
 
 </td>
 </tr>
@@ -191,13 +202,13 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 <br/>
 
 > [!TIP]
-> ### 🔵 &nbsp; Completed
+> ### Completed
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🌉 Bridge Opening System
+### Bridge Opening System
 
 <div>
 <img src="https://img.shields.io/badge/CAPSTONE-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
@@ -206,14 +217,14 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <br/>
 
-**Honours Capstone** — Embedded control system for automated bridge operation. Dual-microcontroller architecture with safety-critical design.
+**ENGG2000/3000 group capstone.** Embedded control system for automated bridge operation. Dual-microcontroller architecture with safety-critical design.
 
 ```
-⚙️ ESP32 ↔ Arduino comms
-💓 Heartbeat monitoring
-🛑 Fail-safe emergency stop
-🔄 Manual / auto modes
-⚖️ Weight & position sensing
+- ESP32 <-> Arduino comms
+- Heartbeat monitoring
+- Fail-safe emergency stop
+- Manual / auto modes
+- Weight & position sensing
 ```
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -221,48 +232,45 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 </td>
 <td width="33%" valign="top">
 
-### 🎮 Motion Control System
+### Korvo
 
 <div>
-<img src="https://img.shields.io/badge/COMPLETED-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/EMBEDDED-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/AI--POWERED_SAAS-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
 <br/>
 
-**Jun–Nov 2024** — Motor-driven carriage with modular control architecture.
+**AI-driven cold outreach.** Demo-mode SaaS that takes a company name and produces enriched contacts plus personalised cold emails ready to review.
 
 ```
-🏎️ Speed & sequence control
-🛡️ Collision detection
-📡 Real-time serial comms
-📊 Sensor noise handling
+- Multi-source contact lookup
+- Claude API drafting
+- Stripe billing
+- Supabase Auth (Google OAuth)
 ```
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+Frozen as a portfolio piece (April 2026) so I could redirect time to Conduit.
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 
 </td>
 <td width="33%" valign="top">
 
-### 📦 RFID Inventory Tracker
+### Motion Control + RFID Inventory
 
 <div>
 <img src="https://img.shields.io/badge/COMPLETED-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/SCRUM_MASTER-059669?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/EMBEDDED_+_AGILE-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
 <br/>
 
-**Team Project** — Automated inventory management with RFID.
+**Motion Control (2024).** Motor-driven carriage with modular control: speed/sequence control, collision detection, real-time serial comms, sensor noise handling.
 
-```
-📋 Led Agile sprints
-👥 Ran user workshops
-📡 Real-time scanning
-🔄 Auto-sync pipeline
-```
+**RFID Inventory Tracker.** Team project, Scrum Master role: led sprints, ran user workshops, real-time scanning + auto-sync pipeline.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Agile-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Agile-059669?style=flat-square"/>
 
 </td>
 </tr>
@@ -284,14 +292,15 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <img src="https://img.shields.io/badge/2025–NOW-E7352C?style=for-the-badge&labelColor=1a1a2e"/>
 
-### 💻 Lenovo
+### Lenovo
 
 **Hardware Deployment Technician**
 
 ```
-🖥️ Enterprise imaging
-📦 Hardware deployment
-🔧 Client site config
+- BIOS configuration
+- OS imaging to client build
+- Hardware install / remove
+- Power adapter testing
 ```
 
 </td>
@@ -299,14 +308,15 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <img src="https://img.shields.io/badge/2025–NOW-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
 
-### 🖥️ UTSBDSOC
+### UTSBDSOC
 
 **IT Director**
 
 ```
-⚡ 30–40% task automation
-📉 Reduced event downtime
-🚀 Onboarding: weeks → days
+- Solo-built society website
+- Co-Tech-Lead with Aneira
+- Production tooling for
+  non-technical committee
 ```
 
 </td>
@@ -314,14 +324,15 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <img src="https://img.shields.io/badge/JUL–DEC_2025-0066FF?style=for-the-badge&labelColor=1a1a2e"/>
 
-### 📡 Optus
+### Optus
 
 **Sales Consultant**
 
 ```
-🔧 25–35 issues/shift
-📊 100% CRM accuracy
-🌐 SIM, VoIP, network
+- Reviewed each customer's
+  account, plans, bundles
+- Inbound upsell / cross-sell
+- SIM, mobile, broadband
 ```
 
 </td>
@@ -329,14 +340,14 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <img src="https://img.shields.io/badge/FEB_2023–NOW-00C853?style=for-the-badge&labelColor=1a1a2e"/>
 
-### 🛒 Woolworths
+### Woolworths
 
 **Sales Assistant**
 
 ```
-👥 40–70 customers/shift
-🖥️ POS & kiosk support
-🔧 10–20 tech issues/shift
+- 40 to 70 customers / shift
+- POS & self-checkout support
+- 10 to 20 tech issues / shift
 ```
 
 </td>
@@ -351,15 +362,14 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏛️_MACQUARIE_UNIVERSITY-302b63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACQUARIE_UNIVERSITY-302b63?style=for-the-badge"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Eng_(Honours)-Software_Engineering-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/>
-
-<sub>Feb 2022 – Jun 2027 · North Ryde, Sydney</sub>
+<sub>Feb 2022 to Jun 2027 · North Ryde, Sydney</sub>
 
 <br/><br/>
 
@@ -370,10 +380,10 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 <img src="https://img.shields.io/badge/CORE_CS-3B82F6?style=for-the-badge&labelColor=1a1a2e"/>
 
 ```
-📊 Data Structures & Algorithms
-🗄️ Database Systems
-⚙️ Operating Systems
-🌐 Distributed Systems
+- Data Structures & Algorithms
+- Database Systems
+- Operating Systems
+- Distributed Systems
 ```
 
 </td>
@@ -382,8 +392,10 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 <img src="https://img.shields.io/badge/SOFTWARE-059669?style=for-the-badge&labelColor=1a1a2e"/>
 
 ```
-🔄 Dev Methodologies
-📋 Agile Project Management
+- Dev Methodologies
+- Agile Project Management
+- Network & App Security
+  (OWASP, Bandit, CWE)
 ```
 
 </td>
@@ -392,10 +404,10 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 <img src="https://img.shields.io/badge/SYSTEMS-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
 
 ```
-🔌 Embedded Systems
-📡 Computer Networks
-☁️ Cloud Computing
-🔐 Cybersecurity
+- Embedded Systems
+- Computer Networks
+- Cloud Computing
+- Cybersecurity
 ```
 
 </td>
@@ -432,7 +444,7 @@ Multi-layered data access · Claude API-driven contact finding & email drafting 
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Currently+looking+for+Graduate+SWE+roles+in+Sydney+%F0%9F%87%A6%F0%9F%87%BA" alt="Seeking roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Currently+looking+for+Graduate+SWE+roles+in+Sydney" alt="Seeking roles" />
 
 <br/><br/>
 
