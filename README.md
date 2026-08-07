@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Ship+it.+Maintain+it.+Improve+it.;Safety-critical+reporting+for+real+participants.;Evidence-gated+AI+tooling.;From+embedded+controllers+to+full-stack.;Code+that+someone+else+has+to+read." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Ship+it.+Maintain+it.+Improve+it.;5%2C000+reports+a+year%2C+nobody+proofreads+them.;AI+tools+that+can+show+their+sources.;Controllers+built+to+fail+safely.;Code+someone+else+has+to+read+at+3am." alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -29,9 +29,13 @@
 ```
 Software Engineering (Honours) @ Macquarie University, graduating June 2027.
 Research Software Engineer Intern @ ACU Institute for Positive Psychology & Education.
-Sydney-based. Python reporting pipelines under research-ethics constraints,
-production Next.js, and embedded controllers.
-I like problems where being wrong has a cost.
+Sydney-based.
+
+Right now I write the Python that generates ~5,000 wellbeing reports a year for
+Australian school principals. Nobody proofreads them before they send, so the
+code has to be right the first time. That's the kind of problem I like.
+
+Also: production Next.js, and embedded controllers that have to fail safely.
 ```
 
 <br/>
@@ -117,7 +121,7 @@ I like problems where being wrong has a cost.
 <tr>
 <td width="50%" valign="top">
 
-### Principal Health & Wellbeing Reporting Pipeline
+### Principal Wellbeing Report Pipeline
 
 <div>
 <img src="https://img.shields.io/badge/ACU_IPPE-14B8A6?style=for-the-badge&labelColor=1a1a2e"/>
@@ -127,21 +131,31 @@ I like problems where being wrong has a cost.
 
 <br/>
 
-**Research software engineering, day job.** Python + REDCap pipeline behind a 15-year national longitudinal study of Australian school leaders, ~2,000 to 2,500 participants a year.
+**My day job.** Around 2,500 Australian school principals take a wellbeing survey each year. This pipeline turns every submission into a personal PDF report, and flags anyone whose answers suggest they need support. I work on the code that generates them.
+
+**How it works**
 
 ```
-- Individual feedback reports:
-  current + longitudinal + national
-  benchmarks + population norms
-- Automated risk-escalation pipeline
-  on high-risk survey responses
-- ~5,000 PDFs must render correctly,
-  unattended, per survey round
+REDCap survey submitted
+  -> score the responses
+  -> compare to the person's own past
+     years + national benchmarks
+  -> render a PDF with charts
+  -> email it out
+  -> in parallel: risk check, escalate
+     to the research team if triggered
 ```
 
-Currently: rebuilt the individual report renderer for 2026, fixed working-directory-dependent plot paths, and stood up the MkDocs documentation site. Ran a defect audit of the scoring pipeline and filed the findings as tracked issues, one already fixed by the team.
+**What I've shipped**
 
-Works under HREC ethics approval: data minimisation, no participant data into third-party tools, audit-grade code review. Repo is private, so no links.
+- **Rebuilt the report renderer** for the 2026 design, running beside the old one so nothing breaks mid-study
+- **Fixed a silent data bug** where charts pulled the wrong file depending on which directory the job started in
+- **Wrote the documentation site** (MkDocs), the first written docs the pipeline has had
+- **Audited the scoring logic** and filed 18 defects, 4 of them affecting what participants actually read
+
+The hard part: those ~5,000 PDFs render unattended and nobody proofreads them before they send. A quiet scoring bug reaches a real person.
+
+Runs under HREC ethics approval, so: data minimisation, no participant data into third-party tools, every change peer reviewed. Private repo, no links.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/WeasyPrint-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/REDCap-B31B1B?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
 
@@ -158,15 +172,17 @@ Works under HREC ethics approval: data minimisation, no participant data into th
 
 <br/>
 
-**IT Director & Sole Developer.** Production website for UTS Bangladeshi Society, MIT-licensed.
+**Built and run it on my own.** The public site for UTS Bangladeshi Society, serving a community of ~500. MIT-licensed.
+
+The committee changes every year and none of them write code, so the site is built to be edited by people who aren't developers: content comes out of a CMS, and every change gets a preview deploy before it goes live.
 
 ```
 - Next.js 16 App Router + React 19
 - Prisma + PostgreSQL on Supabase
-- The Graamys: 9-category awards
-  nomination + voting system
-- Dynamic CMS, event galleries
-- Vercel CI/CD with preview deploys
+- The Graamys: awards voting across
+  9 categories, nomination to result
+- CMS-driven pages + event galleries
+- Vercel CI/CD, preview per PR
 ```
 
 <a href="https://utbdsoc-website.vercel.app"><img src="https://img.shields.io/badge/VISIT_SITE-000?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -196,19 +212,21 @@ Works under HREC ethics approval: data minimisation, no participant data into th
 
 <br/>
 
-**Evidence-gated research tooling.** A CLI that refuses to publish a claim it cannot pin to an archived source.
+**Any AI tool will write you a research report. This one won't publish a sentence it can't trace back to a real source.**
+
+Give it a topic. It searches, saves an exact copy of every page it reads, then writes the report only from what those pages actually said. Each claim gets checked back against the archive. Claims that don't hold up are withheld and listed with the reason, not quietly left in.
 
 ```
-- Span-level grounding: no source
-  quote, no claim
-- Deterministic numeric guard
-- Byte-for-byte WARC archives,
-  replayable verdicts
-- Piloted on real qualitative
-  coding, all evidence verified
+search -> archive (WARC) -> extract
+   -> draft from facts only
+   -> check every claim against
+      the archive
+   -> ship what holds, name what doesn't
 ```
 
-Built on crawl4ai. Published to PyPI; source stays private while the archive layer settles.
+Any run replays offline from its own archive, so you can re-check a report months later. Also runs a separate numeric check, because a model that gets a number wrong usually still sounds confident.
+
+Built on crawl4ai. Published to PyPI; source private while the archive layer settles.
 
 <a href="https://pypi.org/project/sprawll/"><img src="https://img.shields.io/badge/pypi-sprawll-3775A9?style=flat-square&logo=pypi&logoColor=white"/></a>
 
@@ -228,14 +246,17 @@ Built on crawl4ai. Published to PyPI; source stays private while the archive lay
 
 **An assistant that knows who you are, so your tools stop asking.**
 
-Not another pipeline. The layer that reads the ones you already have, and carries provenance and outcome through them so context survives between tools.
+I had six automation scripts job-hunting for me. They applied to zero jobs for six days. Nothing crashed: they filled in 13 of 20 form fields, hit *"do you need visa sponsorship?"*, and binned the application. The answer was already in a config file. Nothing thought to look, and the alert about it sat unread in a text file for 143 hours.
 
 ```
-- Reads existing tool state
-  instead of replacing it
-- Provenance + outcome model
-- Feeds the agent-harness work
+aibo brief    what happened, what is stuck
+aibo doctor   health measured by outcome,
+              never by "the job ran"
+aibo asks     the queue only a human can
+              answer  (--push to your phone)
 ```
+
+Every fact it stores records where it learned it. It answers on your behalf only when it can point at where you already said that. Everything else becomes a question for you.
 
 <a href="https://github.com/Wasif-ZA/aibo"><img src="https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
@@ -263,14 +284,17 @@ Not another pipeline. The layer that reads the ones you already have, and carrie
 
 <br/>
 
-**ENGG2000/3000 group capstone.** Embedded control system for automated bridge operation. Dual-microcontroller architecture with safety-critical design.
+**ENGG2000/3000 group capstone.** A working model drawbridge that raises and lowers itself, built to fail safely.
+
+Two microcontrollers, split so neither can strand the bridge. They ping each other constantly; if either stops answering, the bridge stops moving.
 
 ```
-- ESP32 <-> Arduino comms
-- Heartbeat monitoring
-- Fail-safe emergency stop
-- Manual / auto modes
-- Weight & position sensing
+- ESP32 <-> Arduino over serial
+- Heartbeat between the two boards
+- Emergency stop that cuts drive
+  regardless of what software wants
+- Manual override + automatic mode
+- Weight and position sensing
 ```
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -287,16 +311,17 @@ Not another pipeline. The layer that reads the ones you already have, and carrie
 
 <br/>
 
-**AI-driven cold outreach.** Demo-mode SaaS that takes a company name and produces enriched contacts plus personalised cold emails ready to review.
+**Cold outreach, automated.** Type a company name. It finds the right people, drafts a personalised email to each, and queues them for you to approve before anything sends.
 
 ```
-- Multi-source contact lookup
-- Claude API drafting
-- Queue-backed (BullMQ/Redis)
+- Contact lookup across sources
+- Claude API writes the drafts
+- Job queue (BullMQ + Redis) so a
+  slow lookup can't block the app
 - Stripe billing, Supabase Auth
 ```
 
-Frozen as a portfolio piece (April 2026). Runs keyless: `npm run demo`.
+Frozen as a portfolio piece (April 2026). Clone and run `npm run demo`, no API keys needed.
 
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 
@@ -312,9 +337,9 @@ Frozen as a portfolio piece (April 2026). Runs keyless: `npm run demo`.
 
 <br/>
 
-**Motion Control (2024).** Motor-driven carriage with modular control: speed/sequence control, collision detection, real-time serial comms, sensor noise handling.
+**Motion Control (2024).** A motor-driven carriage that runs a set sequence and stops itself before it hits anything. Most of the work was in the sensors: raw readings are noisy, so the code has to tell a real obstacle from a bad reading.
 
-**RFID Inventory Tracker.** Team project, Scrum Master role: led sprints, ran user workshops, real-time scanning + auto-sync pipeline.
+**RFID Inventory Tracker.** Team project, I was Scrum Master. Scanned tags update stock in real time and sync automatically. I ran the sprints and the sessions with users to work out what they needed.
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Agile-059669?style=flat-square"/>
 
@@ -329,42 +354,17 @@ Frozen as a portfolio piece (April 2026). Runs keyless: `npm run demo`.
 
 <div align="center">
 
-| Project | What it is | State |
+| Project | What it does | State |
 |:---|:---|:---|
-| **[wasif-skills](https://github.com/Wasif-ZA/wasif-skills)** | Reusable Claude Code skills: document verification, closed-loop spaced repetition, structured decision tools | Public, in use |
-| **[decision.log](https://github.com/Wasif-ZA/decision.log)** | ADR tracker: version history, stakeholder tagging, full-text fuzzy search | Public, demo mode |
-| **[AutoDocs](https://github.com/Wasif-ZA/AutoDocs)** | CI pipeline that auto-generates TypeScript docs via AST parsing + schema-validated LLM output | Public, demo mode |
-| **orchi** | "Winner Stays On": live court queues, champion streaks, wall-screen display mode | Private, [deployed](https://winner-stays-on.vercel.app) |
-| **banjo** | Local voice agent: deterministic intent router with policy-gated handlers | Private |
-| **agent-harness** | Long-term build (started Jul 2026): shipping natively what people currently bolt onto coding agents | Research + design |
+| **[wasif-skills](https://github.com/Wasif-ZA/wasif-skills)** | My Claude Code toolkit: verifies documents against their own sources, and runs a spaced-repetition study loop that tracks what I keep getting wrong | Public, I use it daily |
+| **[decision.log](https://github.com/Wasif-ZA/decision.log)** | Records why a team chose an architecture, so the reasoning survives the people who made the call. Versioned, searchable | Public, demo mode |
+| **[AutoDocs](https://github.com/Wasif-ZA/AutoDocs)** | Reads a TypeScript codebase's syntax tree and writes the docs in CI. The LLM output is schema-checked, so malformed docs fail the build | Public, demo mode |
+| **orchi** | Court queue for pickup basketball. Winner stays on, loser rotates out, streaks tracked, plus a wall-screen mode for the display at the court | Private, [live](https://winner-stays-on.vercel.app) |
+| **banjo** | Voice assistant that runs entirely on my own machine. Speech in, and a router that decides what to do with fixed rules rather than asking a model | Private |
+| **agent-harness** | Long-term build. Coding agents have gaps that everyone patches with the same handful of add-ons; this ships those natively | Research + design |
+| **[conduit](https://github.com/Wasif-ZA/conduit)** | Connected authenticated APIs to Claude via MCP | Archived Jul 2026 |
 
 </div>
-
-<br/>
-
-> [!CAUTION]
-> ### Sunset
-
-<table>
-<tr>
-<td>
-
-### Conduit
-
-<div>
-<img src="https://img.shields.io/badge/DISCONTINUED_JUL_2026-6B7280?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/OPEN--CORE_SAAS-4B5563?style=for-the-badge&labelColor=1a1a2e"/>
-</div>
-
-<br/>
-
-**Open-core MCP toolkit SaaS** for the connect-debug-ship loop. Killed 12 July 2026 after a portfolio-wide audit: the problem was real, but the incumbents already owned it and there was no wedge a solo developer could defend. Two artifacts salvaged (the OpenAPI parser and the Supabase RLS migration); the rest is a lesson in scoping.
-
-<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-A855F7?style=flat-square"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
