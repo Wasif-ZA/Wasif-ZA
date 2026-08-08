@@ -542,11 +542,11 @@ Frozen as a portfolio piece (April 2026). Clone and run `npm run demo`, no API k
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wasif-ZA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Wasif-ZA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wasif-ZA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" height="170"/>
+<img src="https://gh-readme-stats.vercel.app/api?username=Wasif-ZA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" height="170"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=Wasif-ZA&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF" height="170"/>
 
